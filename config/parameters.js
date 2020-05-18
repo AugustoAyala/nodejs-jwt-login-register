@@ -1,3 +1,5 @@
+'use strict'
+
 module.exports = {
-    Url: 'mongodb://localhost/basejwt'
-}
+    Url: 'mongodb://localhost/basejwt',
+};
